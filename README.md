@@ -1,4 +1,12 @@
 Exploratory-Data-Analysis-Week-1-Project
+Procedure to Run
+
+    
+      To run plot1.R, run source("plot1.R")
+      To run plot2.R, run source("plot2.R")
+      To run plot3.R, run source("plot3.R")
+      To run plot4.R, run source("plot4.R")
+    
 
 Instructions
 
